@@ -1,0 +1,821 @@
+<mxfile host="app.diagrams.net" pages="7">
+  <diagram name="Жилые дома" id="page_house">
+    <mxGraphModel dx="1089" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_h" parent="1" style="rounded=0;fillColor=#0d1117;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="900" width="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="title_h" parent="1" style="text;fontSize=22;fontStyle=1;fontColor=#58a6ff;align=center;" value="🏠 ЖИЛЫЕ ДОМА (House)" vertex="1">
+          <mxGeometry height="35" width="500" x="300" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#30363d;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="ул. Ленина, 5" vertex="1">
+          <mxGeometry height="130" width="220" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h1_1" parent="h1" style="text;fontSize=11;fontColor=#58a6ff;align=left;spacingLeft=8;" value="🟢 id: 1" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h1_2" parent="h1" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 9 | Квартир: 72" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h1_3" parent="h1" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 1985" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h1_4" parent="h1" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h1_5" parent="h1" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" value="✅ Эксплуатируется" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#30363d;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="ул. Ленина, 7" vertex="1">
+          <mxGeometry height="130" width="220" x="280" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h2_1" parent="h2" style="text;fontSize=11;fontColor=#58a6ff;align=left;spacingLeft=8;" value="🟢 id: 2" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h2_2" parent="h2" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 9 | Квартир: 72" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h2_3" parent="h2" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 1986" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h2_4" parent="h2" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h2_5" parent="h2" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" value="✅ Эксплуатируется" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#30363d;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="пр. Мира, 12" vertex="1">
+          <mxGeometry height="130" width="220" x="520" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h3_1" parent="h3" style="text;fontSize=11;fontColor=#58a6ff;align=left;spacingLeft=8;" value="🟢 id: 3" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h3_2" parent="h3" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 12 | Квартир: 96" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h3_3" parent="h3" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 1992" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h3_4" parent="h3" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h3_5" parent="h3" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" value="✅ Эксплуатируется" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h4" parent="1" style="swimlane;fillColor=#1f1318;strokeColor=#da3633;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="ул. Садовая, 3" vertex="1">
+          <mxGeometry height="130" width="220" x="760" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h4_1" parent="h4" style="text;fontSize=11;fontColor=#f85149;align=left;spacingLeft=8;fontStyle=1;" value="🔴 id: 4" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h4_2" parent="h4" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 5 | Квартир: 40" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h4_3" parent="h4" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 1975" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h4_4" parent="h4" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h4_5" parent="h4" style="text;fontSize=10;fontColor=#f85149;align=left;spacingLeft=8;fontStyle=1;" value="❌ Аварийный" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h5" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#30363d;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="ул. Полярная, 8" vertex="1">
+          <mxGeometry height="130" width="220" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h5_1" parent="h5" style="text;fontSize=11;fontColor=#58a6ff;align=left;spacingLeft=8;" value="🟢 id: 5" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h5_2" parent="h5" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 9 | Квартир: 72" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h5_3" parent="h5" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 1988" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h5_4" parent="h5" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h5_5" parent="h5" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" value="✅ Эксплуатируется" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h6" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#30363d;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" value="ул. Степная, 10" vertex="1">
+          <mxGeometry height="130" width="220" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h6_1" parent="h6" style="text;fontSize=11;fontColor=#58a6ff;align=left;spacingLeft=8;" value="🟢 id: 6" vertex="1">
+          <mxGeometry height="18" width="220" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h6_2" parent="h6" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Этажей: 16 | Квартир: 160" vertex="1">
+          <mxGeometry height="18" width="220" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="h6_3" parent="h6" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Год постройки: 2005" vertex="1">
+          <mxGeometry height="18" width="220" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h6_4" parent="h6" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" value="Отопление: централизованное" vertex="1">
+          <mxGeometry height="18" width="220" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h6_5" parent="h6" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" value="✅ Эксплуатируется" vertex="1">
+          <mxGeometry height="18" width="220" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Котельные" id="page_boiler">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_b" value="" style="rounded=0;fillColor=#0d1117;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1400" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="title_b" value="🔥 КОТЕЛЬНЫЕ (Boilerhouse)" style="text;fontSize=22;fontStyle=1;fontColor=#d29922;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="15" width="500" height="35" as="geometry" />
+        </mxCell>
+        <!-- К1 -->
+        <mxCell id="b1" value="Котельная №1 Центральная" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b1_1" value="🟠 id: 1" style="text;fontSize=11;fontColor=#d29922;align=left;spacingLeft=8;" vertex="1" parent="b1">
+          <mxGeometry x="0" y="28" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b1_2" value="Адрес: ул. Заводская, 1" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b1">
+          <mxGeometry x="0" y="46" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b1_3" value="Топливо: газ" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b1">
+          <mxGeometry x="0" y="64" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b1_4" value="Мощность: 85.00 Гкал/ч" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b1">
+          <mxGeometry x="0" y="82" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b1_5" value="Год: 1985 | ✅ Работает" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b1">
+          <mxGeometry x="0" y="100" width="220" height="18" as="geometry" />
+        </mxCell>
+        <!-- К2 -->
+        <mxCell id="b2" value="Котельная №2 Северная" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b2_1" value="🟠 id: 2" style="text;fontSize=11;fontColor=#d29922;align=left;spacingLeft=8;" vertex="1" parent="b2">
+          <mxGeometry x="0" y="28" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b2_2" value="Адрес: ул. Полярная, 12" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b2">
+          <mxGeometry x="0" y="46" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b2_3" value="Топливо: газ" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b2">
+          <mxGeometry x="0" y="64" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b2_4" value="Мощность: 60.50 Гкал/ч" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b2">
+          <mxGeometry x="0" y="82" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b2_5" value="Год: 1992 | ✅ Работает" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b2">
+          <mxGeometry x="0" y="100" width="220" height="18" as="geometry" />
+        </mxCell>
+        <!-- К3 -->
+        <mxCell id="b3" value="Котельная №3 Южная" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b3_1" value="🟠 id: 3" style="text;fontSize=11;fontColor=#d29922;align=left;spacingLeft=8;" vertex="1" parent="b3">
+          <mxGeometry x="0" y="28" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b3_2" value="Адрес: ул. Степная, 5" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b3">
+          <mxGeometry x="0" y="46" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b3_3" value="Топливо: газ" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b3">
+          <mxGeometry x="0" y="64" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b3_4" value="Мощность: 72.00 Гкал/ч" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b3">
+          <mxGeometry x="0" y="82" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b3_5" value="Год: 1988 | ✅ Работает" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b3">
+          <mxGeometry x="0" y="100" width="220" height="18" as="geometry" />
+        </mxCell>
+        <!-- К4 (на ТО) -->
+        <mxCell id="b4" value="Котельная №4 Восточная" style="swimlane;fillColor=#1a1410;strokeColor=#db6d28;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4_1" value="🟡 id: 4" style="text;fontSize=11;fontColor=#db6d28;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b4">
+          <mxGeometry x="0" y="28" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b4_2" value="Адрес: пр. Восточный, 44" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b4">
+          <mxGeometry x="0" y="46" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b4_3" value="Топливо: уголь" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b4">
+          <mxGeometry x="0" y="64" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b4_4" value="Мощность: 40.00 Гкал/ч" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b4">
+          <mxGeometry x="0" y="82" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b4_5" value="Год: 1979 | ⚡ На ТО" style="text;fontSize=10;fontColor=#db6d28;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b4">
+          <mxGeometry x="0" y="100" width="220" height="18" as="geometry" />
+        </mxCell>
+        <!-- К5 -->
+        <mxCell id="b5" value="Котельная №5 Западная" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_1" value="🟠 id: 5" style="text;fontSize=11;fontColor=#d29922;align=left;spacingLeft=8;" vertex="1" parent="b5">
+          <mxGeometry x="0" y="28" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_2" value="Адрес: ул. Лесная, 3" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b5">
+          <mxGeometry x="0" y="46" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_3" value="Топливо: газ" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b5">
+          <mxGeometry x="0" y="64" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_4" value="Мощность: 55.00 Гкал/ч" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="b5">
+          <mxGeometry x="0" y="82" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_5" value="Год: 1995 | ✅ Работает" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="b5">
+          <mxGeometry x="0" y="100" width="220" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Трубопроводы" id="page_pipeline">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_p" value="" style="rounded=0;fillColor=#0d1117;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1400" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="title_p" value="🔧 ТРУБОПРОВОДЫ (Pipeline)" style="text;fontSize=22;fontStyle=1;fontColor=#a371f7;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="15" width="500" height="35" as="geometry" />
+        </mxCell>
+        <!-- Т1 -->
+        <mxCell id="p1" value="Магистраль М-1 Центр" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_1" value="🟣 id: 1" style="text;fontSize=11;fontColor=#a371f7;align=left;spacingLeft=8;" vertex="1" parent="p1">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_2" value="Диаметр: 300 мм | Длина: 4200 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p1">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_3" value="Материал: сталь" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p1">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_4" value="Год прокладки: 1990" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p1">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_5" value="✅ В работе" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p1">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+        <!-- Т2 -->
+        <mxCell id="p2" value="Магистраль М-2 Север" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_1" value="🟣 id: 2" style="text;fontSize=11;fontColor=#a371f7;align=left;spacingLeft=8;" vertex="1" parent="p2">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_2" value="Диаметр: 250 мм | Длина: 3800 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p2">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_3" value="Материал: сталь" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p2">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_4" value="Год прокладки: 1993" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p2">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_5" value="✅ В работе" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p2">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+        <!-- Т3 -->
+        <mxCell id="p3" value="Магистраль М-3 Юг" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_1" value="🟣 id: 3" style="text;fontSize=11;fontColor=#a371f7;align=left;spacingLeft=8;" vertex="1" parent="p3">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_2" value="Диаметр: 300 мм | Длина: 5100 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p3">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_3" value="Материал: сталь" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p3">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_4" value="Год прокладки: 1989" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p3">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_5" value="✅ В работе" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p3">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+        <!-- Т4 (аварийный) -->
+        <mxCell id="p4" value="Магистраль М-4 Восток" style="swimlane;fillColor=#1f1318;strokeColor=#da3633;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="70" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_1" value="🔴 id: 4" style="text;fontSize=11;fontColor=#f85149;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p4">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_2" value="Диаметр: 200 мм | Длина: 2900 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p4">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_3" value="Материал: сталь" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p4">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_4" value="Год прокладки: 1980" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p4">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_5" value="❌ Аварийный" style="text;fontSize=10;fontColor=#f85149;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p4">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+        <!-- Т5 -->
+        <mxCell id="p5" value="Магистраль М-5 Запад" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_1" value="🟣 id: 5" style="text;fontSize=11;fontColor=#a371f7;align=left;spacingLeft=8;" vertex="1" parent="p5">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_2" value="Диаметр: 250 мм | Длина: 4500 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p5">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_3" value="Материал: ПЭ" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p5">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_4" value="Год прокладки: 2005" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p5">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_5" value="✅ В работе" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p5">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+        <!-- Т6 -->
+        <mxCell id="p6" value="Распределитель Р-1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p6_1" value="🟣 id: 6" style="text;fontSize=11;fontColor=#a371f7;align=left;spacingLeft=8;" vertex="1" parent="p6">
+          <mxGeometry x="0" y="28" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p6_2" value="Диаметр: 100 мм | Длина: 900 м" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p6">
+          <mxGeometry x="0" y="46" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p6_3" value="Материал: ПП" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p6">
+          <mxGeometry x="0" y="64" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p6_4" value="Год прокладки: 2012" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="p6">
+          <mxGeometry x="0" y="82" width="230" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p6_5" value="✅ В работе" style="text;fontSize=10;fontColor=#3fb950;align=left;spacingLeft=8;fontStyle=1;" vertex="1" parent="p6">
+          <mxGeometry x="0" y="100" width="230" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Районы" id="page_district">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_d" value="" style="rounded=0;fillColor=#0d1117;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1400" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="title_d" value="📍 РАЙОНЫ (District)" style="text;fontSize=22;fontStyle=1;fontColor=#79c0ff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="15" width="500" height="35" as="geometry" />
+        </mxCell>
+        <!-- Р1 -->
+        <mxCell id="d1" value="Центральный" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d1_1" value="🔵 id: 1" style="text;fontSize=11;fontColor=#79c0ff;align=left;spacingLeft=8;" vertex="1" parent="d1">
+          <mxGeometry x="0" y="28" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d1_2" value="Население: 45 000 чел." style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d1">
+          <mxGeometry x="0" y="46" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d1_3" value="Площадь: 12.50 км²" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d1">
+          <mxGeometry x="0" y="64" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d1_4" value="🏠 Дома: 1, 2, 3" style="text;fontSize=10;fontColor=#58a6ff;align=left;spacingLeft=8;fontStyle=2;" vertex="1" parent="d1">
+          <mxGeometry x="0" y="82" width="200" height="18" as="geometry" />
+        </mxCell>
+        <!-- Р2 -->
+        <mxCell id="d2" value="Северный" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d2_1" value="🔵 id: 2" style="text;fontSize=11;fontColor=#79c0ff;align=left;spacingLeft=8;" vertex="1" parent="d2">
+          <mxGeometry x="0" y="28" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d2_2" value="Население: 38 000 чел." style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d2">
+          <mxGeometry x="0" y="46" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d2_3" value="Площадь: 18.30 км²" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d2">
+          <mxGeometry x="0" y="64" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d2_4" value="🏠 Дома: 5" style="text;fontSize=10;fontColor=#58a6ff;align=left;spacingLeft=8;fontStyle=2;" vertex="1" parent="d2">
+          <mxGeometry x="0" y="82" width="200" height="18" as="geometry" />
+        </mxCell>
+        <!-- Р3 -->
+        <mxCell id="d3" value="Южный" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d3_1" value="🔵 id: 3" style="text;fontSize=11;fontColor=#79c0ff;align=left;spacingLeft=8;" vertex="1" parent="d3">
+          <mxGeometry x="0" y="28" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d3_2" value="Население: 52 000 чел." style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d3">
+          <mxGeometry x="0" y="46" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d3_3" value="Площадь: 21.70 км²" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d3">
+          <mxGeometry x="0" y="64" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d3_4" value="🏠 Дома: 4, 6" style="text;fontSize=10;fontColor=#58a6ff;align=left;spacingLeft=8;fontStyle=2;" vertex="1" parent="d3">
+          <mxGeometry x="0" y="82" width="200" height="18" as="geometry" />
+        </mxCell>
+        <!-- Р4 -->
+        <mxCell id="d4" value="Восточный" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d4_1" value="🔵 id: 4" style="text;fontSize=11;fontColor=#79c0ff;align=left;spacingLeft=8;" vertex="1" parent="d4">
+          <mxGeometry x="0" y="28" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d4_2" value="Население: 29 000 чел." style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d4">
+          <mxGeometry x="0" y="46" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d4_3" value="Площадь: 15.40 км²" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d4">
+          <mxGeometry x="0" y="64" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d4_4" value="🏠 Дома: —" style="text;fontSize=10;fontColor=#58a6ff;align=left;spacingLeft=8;fontStyle=2;" vertex="1" parent="d4">
+          <mxGeometry x="0" y="82" width="200" height="18" as="geometry" />
+        </mxCell>
+        <!-- Р5 -->
+        <mxCell id="d5" value="Западный" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=12;fontColor=#c9d1d9;startSize=28;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d5_1" value="🔵 id: 5" style="text;fontSize=11;fontColor=#79c0ff;align=left;spacingLeft=8;" vertex="1" parent="d5">
+          <mxGeometry x="0" y="28" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d5_2" value="Население: 41 000 чел." style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d5">
+          <mxGeometry x="0" y="46" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d5_3" value="Площадь: 19.80 км²" style="text;fontSize=10;fontColor=#8b949e;align=left;spacingLeft=8;" vertex="1" parent="d5">
+          <mxGeometry x="0" y="64" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d5_4" value="🏠 Дома: —" style="text;fontSize=10;fontColor=#58a6ff;align=left;spacingLeft=8;fontStyle=2;" vertex="1" parent="d5">
+          <mxGeometry x="0" y="82" width="200" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ребра_Supplies" id="page_supplies">
+    <mxGraphModel dx="467" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_s" parent="1" style="rounded=0;fillColor=#0d1117;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1000" width="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="title_s" parent="1" style="text;fontSize=20;fontStyle=1;fontColor=#d29922;align=center;" value="РЕБРО: Котельная → Трубопровод (Supplies)" vertex="1">
+          <mxGeometry height="30" width="700" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sb1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Котельная №1 Центральная" vertex="1">
+          <mxGeometry height="55" width="170" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sb1_1" parent="sb1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟠 id=1 | газ | 85 Гкал/ч" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sb1_2" parent="sb1" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ работает" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sb2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Котельная №2 Северная" vertex="1">
+          <mxGeometry height="55" width="170" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sb2_1" parent="sb2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟠 id=2 | газ | 60.5 Гкал/ч" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sb2_2" parent="sb2" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ работает" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sb3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Котельная №3 Южная" vertex="1">
+          <mxGeometry height="55" width="170" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sb3_1" parent="sb3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟠 id=3 | газ | 72 Гкал/ч" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sb3_2" parent="sb3" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ работает" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sb4" parent="1" style="swimlane;fillColor=#1a1410;strokeColor=#db6d28;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Котельная №4 Восточная" vertex="1">
+          <mxGeometry height="55" width="170" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sb4_1" parent="sb4" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟡 id=4 | уголь | 40 Гкал/ч" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sb4_2" parent="sb4" style="text;fontSize=9;fontColor=#db6d28;align=left;spacingLeft=6;fontStyle=1;" value="⚡ на ТО" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sb5" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#d29922;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Котельная №5 Западная" vertex="1">
+          <mxGeometry height="55" width="170" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="sb5_1" parent="sb5" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟠 id=5 | газ | 55 Гкал/ч" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sb5_2" parent="sb5" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ работает" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-1 Центр" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp1_1" parent="sp1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=1 | 300мм | 4200м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp1_2" parent="sp1" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ в работе" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-2 Север" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sp2_1" parent="sp2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=2 | 250мм | 3800м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp2_2" parent="sp2" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ в работе" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-3 Юг" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sp3_1" parent="sp3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=3 | 300мм | 5100м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp3_2" parent="sp3" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ в работе" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp4" parent="1" style="swimlane;fillColor=#1f1318;strokeColor=#da3633;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-4 Восток" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sp4_1" parent="sp4" style="text;fontSize=9;fontColor=#f85149;align=left;spacingLeft=6;" value="🔴 id=4 | 200мм | 2900м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp4_2" parent="sp4" style="text;fontSize=9;fontColor=#f85149;align=left;spacingLeft=6;fontStyle=1;" value="❌ аварийный" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp5" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-5 Запад" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sp5_1" parent="sp5" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=5 | 250мм | 4500м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp5_2" parent="sp5" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ в работе" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp6" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Р-1" vertex="1">
+          <mxGeometry height="55" width="160" x="950" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="sp6_1" parent="sp6" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=6 | 100мм | 900м" vertex="1">
+          <mxGeometry height="16" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sp6_2" parent="sp6" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="✅ в работе" vertex="1">
+          <mxGeometry height="16" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_s1" edge="1" parent="1" source="sb1" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#3fb950;strokeColor=#2D7600;strokeWidth=2;fillColor=#60a917;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp1" value="70 Гкал/ч | 6.5 бар | активно">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_s2" edge="1" parent="1" source="sb2" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#3fb950;strokeColor=#3fb950;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp2" value="55 Гкал/ч | 6.0 бар | активно">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_s3" edge="1" parent="1" source="sb3" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#3fb950;strokeColor=#3fb950;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp3" value="65 Гкал/ч | 6.2 бар | активно">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_s4" edge="1" parent="1" source="sb4" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#f85149;strokeColor=#f85149;strokeWidth=2;dashed=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp4" value="35 Гкал/ч | 5.0 бар | приостановлено">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_s5" edge="1" parent="1" source="sb5" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#3fb950;strokeColor=#3fb950;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp5" value="50 Гкал/ч | 6.3 бар | активно">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_s6" edge="1" parent="1" source="sb5" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#3fb950;strokeColor=#3fb950;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="sp6" value="8 Гкал/ч | 5.7 бар | активно">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="500" />
+              <mxPoint x="340" y="570" />
+              <mxPoint x="920" y="570" />
+              <mxPoint x="920" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ребра_ConnectedTo" id="page_connected">
+    <mxGraphModel dx="933" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_c" parent="1" style="rounded=0;fillColor=#0d1117;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1000" width="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="title_c" parent="1" style="text;fontSize=20;fontStyle=1;fontColor=#a371f7;align=center;" value="РЕБРО: Трубопровод → Дом (ConnectedTo)" vertex="1">
+          <mxGeometry height="30" width="700" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cp1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-1 Центр" vertex="1">
+          <mxGeometry height="50" width="160" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cp1_1" parent="cp1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=1 | 300мм | в работе" vertex="1">
+          <mxGeometry height="14" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="cp2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-2 Север" vertex="1">
+          <mxGeometry height="50" width="160" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cp2_1" parent="cp2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=2 | 250мм | в работе" vertex="1">
+          <mxGeometry height="14" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="cp3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="М-3 Юг" vertex="1">
+          <mxGeometry height="50" width="160" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cp3_1" parent="cp3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=3 | 300мм | в работе" vertex="1">
+          <mxGeometry height="14" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="cp6" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#a371f7;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Р-1" vertex="1">
+          <mxGeometry height="50" width="160" x="40" y="530" as="geometry">
+            <mxRectangle height="30" width="60" x="40" y="530" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cp6_1" parent="cp6" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟣 id=6 | 100мм | в работе" vertex="1">
+          <mxGeometry height="14" width="160" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №1: ул. Ленина, 5" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch1_1" parent="ch1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=1 | 9эт | ✅" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch1_2" parent="ch1" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="0.185 Гкал/ч | счётчик" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №2: ул. Ленина, 7" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ch2_1" parent="ch2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=2 | 9эт | ✅" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch2_2" parent="ch2" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="0.185 Гкал/ч | счётчик" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №3: пр. Мира, 12" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ch3_1" parent="ch3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=3 | 12эт | ✅" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch3_2" parent="ch3" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="0.240 Гкал/ч | счётчик" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4" parent="1" style="swimlane;fillColor=#1f1318;strokeColor=#da3633;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №4: ул. Садовая, 3" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4_1" parent="ch4" style="text;fontSize=9;fontColor=#f85149;align=left;spacingLeft=6;" value="🔴 id=4 | 5эт | ❌ авар." vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4_2" parent="ch4" style="text;fontSize=9;fontColor=#f85149;align=left;spacingLeft=6;" value="0.110 Гкал/ч | без счётч." vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch5" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №5: ул. Полярная, 8" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ch5_1" parent="ch5" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=5 | 9эт | ✅" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch5_2" parent="ch5" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="0.185 Гкал/ч | счётчик" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ch6" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №6: ул. Степная, 10" vertex="1">
+          <mxGeometry height="55" width="170" x="950" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ch6_1" parent="ch6" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=6 | 16эт | ✅" vertex="1">
+          <mxGeometry height="16" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ch6_2" parent="ch6" style="text;fontSize=9;fontColor=#3fb950;align=left;spacingLeft=6;" value="0.420 Гкал/ч | счётчик" vertex="1">
+          <mxGeometry height="16" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c1" edge="1" parent="1" source="cp1" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#58a6ff;strokeColor=#58a6ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch1" value="0.185 | счет: да">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c2" edge="1" parent="1" source="cp1" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#58a6ff;strokeColor=#58a6ff;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch2" value="0.185 | счет: да">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="140" as="sourcePoint" />
+            <mxPoint x="1035" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_c3" edge="1" parent="1" source="cp2" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#58a6ff;strokeColor=#58a6ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch5" value="0.185 | счет: да">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c4" edge="1" parent="1" source="cp3" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#58a6ff;strokeColor=#58a6ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch6" value="0.420 | счет: да">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c5" edge="1" parent="1" source="cp3" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#f85149;strokeColor=#f85149;strokeWidth=2;dashed=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch4" value="0.110 | счет: нет | ❌ авар.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c6" edge="1" parent="1" source="cp6" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#58a6ff;strokeColor=#58a6ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ch3" value="0.240 | счет: да">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ребра_LocatedIn" id="page_locatedin">
+    <mxGraphModel dx="1633" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_l" parent="1" style="rounded=0;fillColor=#0d1117;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1000" width="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="title_l" parent="1" style="text;fontSize=20;fontStyle=1;fontColor=#79c0ff;align=center;" value="РЕБРО: Дом → Район (LocatedIn)" vertex="1">
+          <mxGeometry height="30" width="700" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lh1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №1: ул. Ленина, 5" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lh1_1" parent="lh1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=1 | 9эт | 1985" vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lh2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №2: ул. Ленина, 7" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lh2_1" parent="lh2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=2 | 9эт | 1986" vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lh3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №3: пр. Мира, 12" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lh3_1" parent="lh3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=3 | 12эт | 1992" vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lh4" parent="1" style="swimlane;fillColor=#1f1318;strokeColor=#da3633;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №4: ул. Садовая, 3" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lh4_1" parent="lh4" style="text;fontSize=9;fontColor=#f85149;align=left;spacingLeft=6;" value="🔴 id=4 | 5эт | 1975 | авар." vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lh5" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №5: ул. Полярная, 8" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="lh5_1" parent="lh5" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=5 | 9эт | 1988" vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lh6" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#58a6ff;fontStyle=1;fontSize=10;fontColor=#c9d1d9;startSize=24;rounded=1;" value="Дом №6: ул. Степная, 10" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lh6_1" parent="lh6" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🟢 id=6 | 16эт | 2005" vertex="1">
+          <mxGeometry height="14" width="170" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=26;rounded=1;" value="Центральный" vertex="1">
+          <mxGeometry height="80" width="180" x="950" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1_1" parent="ld1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🔵 id=1 | 45 000 чел." vertex="1">
+          <mxGeometry height="16" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1_2" parent="ld1" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="12.50 км²" vertex="1">
+          <mxGeometry height="16" width="180" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1_3" parent="ld1" style="text;fontSize=9;fontColor=#58a6ff;align=left;spacingLeft=6;fontStyle=2;" value="🏠 Дома: 1, 2, 3" vertex="1">
+          <mxGeometry height="16" width="180" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ld2" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=26;rounded=1;" value="Северный" vertex="1">
+          <mxGeometry height="80" width="180" x="950" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ld2_1" parent="ld2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🔵 id=2 | 38 000 чел." vertex="1">
+          <mxGeometry height="16" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ld2_2" parent="ld2" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="18.30 км²" vertex="1">
+          <mxGeometry height="16" width="180" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ld2_3" parent="ld2" style="text;fontSize=9;fontColor=#58a6ff;align=left;spacingLeft=6;fontStyle=2;" value="🏠 Дома: 5" vertex="1">
+          <mxGeometry height="16" width="180" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ld3" parent="1" style="swimlane;fillColor=#161b22;strokeColor=#79c0ff;fontStyle=1;fontSize=11;fontColor=#c9d1d9;startSize=26;rounded=1;" value="Южный" vertex="1">
+          <mxGeometry height="80" width="180" x="950" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ld3_1" parent="ld3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="🔵 id=3 | 52 000 чел." vertex="1">
+          <mxGeometry height="16" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ld3_2" parent="ld3" style="text;fontSize=9;fontColor=#8b949e;align=left;spacingLeft=6;" value="21.70 км²" vertex="1">
+          <mxGeometry height="16" width="180" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ld3_3" parent="ld3" style="text;fontSize=9;fontColor=#58a6ff;align=left;spacingLeft=6;fontStyle=2;" value="🏠 Дома: 4, 6" vertex="1">
+          <mxGeometry height="16" width="180" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l1" edge="1" parent="1" source="lh1" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#79c0ff;strokeColor=#79c0ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ld1" value="с 1985 г.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l2" edge="1" parent="1" source="lh2" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#79c0ff;strokeColor=#79c0ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ld1" value="с 1986 г.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l3" edge="1" parent="1" source="lh3" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#79c0ff;strokeColor=#79c0ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ld1" value="с 1992 г.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l4" edge="1" parent="1" source="lh4_1" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#f85149;strokeColor=#f85149;strokeWidth=2;dashed=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);exitX=1;exitY=0;exitDx=0;exitDy=0;" value="с 1975 г. | ⚠ Аварийный">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="355" />
+              <mxPoint x="1170" y="560" />
+            </Array>
+            <mxPoint x="370" y="355.04761904761904" as="sourcePoint" />
+            <mxPoint x="1130" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_l5" edge="1" parent="1" source="lh5" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#79c0ff;strokeColor=#79c0ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ld2" value="с 1988 г.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l6" edge="1" parent="1" source="lh6" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;fontColor=#79c0ff;strokeColor=#79c0ff;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="ld3" value="с 2005 г.">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
